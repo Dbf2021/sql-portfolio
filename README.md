@@ -1,4 +1,4 @@
-# Sales & Profit Analysis by Shipping Type 📊
+# Sales & Profit Analysis  📊
 
 ## Project Overview
 This project analyzes order data to explore how different shipping types affect sales, profit, and shipment delays. Using Python (Pandas, SciPy, Seaborn, Matplotlib), the analysis includes:
