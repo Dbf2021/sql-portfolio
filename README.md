@@ -15,10 +15,6 @@ This project analyzes order data to explore how different shipping types affect 
 
 ---
 
-## Project Files
-- `sales_profit_analysis.ipynb` — the main notebook containing all code and visualizations  
-- (Optional) `data/` — raw dataset if shareable  
-
 ---
 
 ## How to View
@@ -35,8 +31,5 @@ This project analyzes order data to explore how different shipping types affect 
 - Interpretation of results for business insights  
 
 ---
-
-## About Me
-Maryam Ahmed — Data Analyst & Finance student based in Nairobi.  
 Skills: Python, SQL, Power BI, data visualization. This project is part of my portfolio for remote data analyst roles.
 
